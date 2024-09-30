@@ -77,10 +77,10 @@ packages:
     dependency: "direct main"
     description:
       name: flame
-      sha256: ab6b60b7df77015cfdd341035e69418bec8291d20f4640db7535dfb0db8f8c79
+      sha256: e6873a8540a197a9bfe251e10c9e1f200329041d6e6d70df2cf38aa681cf2ef7
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.0-rc9"
+    version: "1.19.0"
   flutter:
     dependency: "direct main"
     description: flutter
@@ -183,10 +183,10 @@ packages:
     dependency: transitive
     description:
       name: ordered_set
-      sha256: f88a917c6a3a54a217585e40db9bff4cb5205d689b535d54c9d949e2ab5a70c0
+      sha256: "3129515e563a14817adebbdeee2acbb845fc69b6fc99a94349b641d1c829d5cd"
       url: "https://pub.dev"
     source: hosted
-    version: "3.2.0"
+    version: "6.1.0"
   path:
     dependency: transitive
     description:
